@@ -1,0 +1,43 @@
+.colaborador {
+    width: 280px;
+}
+
+.colaborador .cabecalho {
+    background-color: #F0F0F0;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.colaborador img {
+    width: 170px;
+    height: 170px;
+    border-radius: 20%;
+    position: relative;
+    bottom: -50px;
+}
+
+.colaborador .rodape {
+    display: block;
+    background: #ffffff;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.08);
+    border-radius: 0px 0px 10px 10px;
+    padding-top: 40px;
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+.colaborador .rodape h4 {
+    color: #240808;
+    font-size: 34px;
+    line-height: 22px;
+    font-weight: bold;
+    margin-bottom: 50px;
+    line-height: 1.2;
+}
+
+.colaborador .rodape h5 {
+    text-align: left;
+    font-size: 25px;
+    line-height: 15px;
+    color: #212121;
+    padding: 0 16px;
+}

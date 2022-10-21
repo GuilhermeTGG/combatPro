@@ -1,0 +1,28 @@
+.formulario {
+    display: flex;
+    justify-content: center;
+    margin: 88px 0;
+}
+
+.formulario h2 {
+    font-size: 33px;
+    color: whitesmoke;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.formulario label {
+    font-weight: bold;
+    font-size: 23px;
+    color: whitesmoke;
+}
+
+.formulario form {
+    max-width: 80%;
+    background-color: #070707;
+    border-radius: 180px 25px;
+    padding: 36px 64px;
+    box-shadow: 8px 8px 16px rgba(0,0,0, 0.08);
+    border-style: double;
+    border-color: rgb(155, 155, 155);
+}
