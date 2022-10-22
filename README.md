@@ -50,9 +50,6 @@ Após ter instalado as dependências, use o seguinte comando para rodar o projet
 $ npm run start:dev
 ```
   
-   <h2>📁Acesso ao projeto📁</h2>
- <ul>
-   <li>https://guilhermetgg.github.io/combatPro/</li>
 
 
 
