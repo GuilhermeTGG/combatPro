@@ -49,7 +49,11 @@ Após ter instalado as dependências, use o seguinte comando para rodar o projet
 #!/bin/bash
 $ npm run start:dev
 ```
-  
+    <h2>📁Acesso ao projeto📁</h2>
+ <ul>
+   <li>https://combat-pro.vercel.app/</li>
+
+
 
 
 
